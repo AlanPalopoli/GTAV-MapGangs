@@ -3,6 +3,8 @@ Interactive map of GTA V to indicate gang zones and other necessary resources th
 
 Based on the interactive map of the MDC Panel. <dd><a href="https://github.com/booskit-codes/MDC-Panel">MDC Panel Repo</a></dd>
 
+![image](https://github.com/AlanPalopoli/GTAV-MapGangs/assets/8279297/6cc584f2-2dac-4efc-a3f8-44f2683c9692)
+
 <!-- #### Features
 * Simple and fast form fill-out process for reports, threads, general paperwork.
 * Dynamic site elements. (Live clock, Breadcrumb, Day & Night Mode)
